@@ -1,0 +1,27 @@
+# --- LaTeX Auxiliary Files ---
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.pdf
+
+# --- Editor / IDE Specific Files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Operating System Generated Files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
